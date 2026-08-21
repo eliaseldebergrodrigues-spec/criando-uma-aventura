@@ -1,0 +1,16 @@
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Playwrite BR Guides", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64a712;
+    color: white;
+    font-family: "Playwrite BR Guides", cursive;
+}
