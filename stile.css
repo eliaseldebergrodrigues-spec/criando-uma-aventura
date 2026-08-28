@@ -14,3 +14,20 @@ button {
     color: white;
     font-family: "Playwrite BR Guides", cursive;
 }
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
+main{
+    text-aling: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 90%;
+}
